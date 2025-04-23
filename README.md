@@ -30,7 +30,7 @@ This project is a template for creating Android applications (executable file) u
 
    ```bash
    $NDK_PATH/ndk-build clean
-   $NDK_PATH/ndk-build build
+   $NDK_PATH/ndk-build
    ```
 
    - `$NDK_PATH` should point to the directory where the Android NDK is installed.
